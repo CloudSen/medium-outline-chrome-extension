@@ -4,6 +4,8 @@ A lightweight Chrome extension that adds a left-hand outline sidebar to Medium a
 
 ## Features
 
+![preview](docs/images/preview.png)  
+
 - Builds an article outline from visible `h1` through `h4` headings.
 - Runs only on Medium article/story pages, not Medium library, profile, topic, or listing pages.
 - Positions the outline to the right of Medium's existing left sidebar when present.
